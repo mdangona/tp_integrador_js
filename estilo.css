@@ -1,0 +1,18 @@
+
+.f_estudiante {
+    border: solid 2px #0c71dd;
+    padding: 40px 0;
+    margin: 10px;
+}
+
+.f_trainee {
+    border: solid 2px #0cd6dd;
+    padding: 40px 0;
+    margin: 10px;
+}
+
+.f_junior {
+    border: solid 2px #dd710c;
+    padding: 40px 0;
+    margin: 10px;
+}
